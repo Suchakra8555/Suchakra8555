@@ -250,12 +250,12 @@ Software Engineer specializing in **Speech AI**, **telephony-grade audio pipelin
 ### 📊 Stats & Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Suchakra8555&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00e6e6&icon_color=ff3e3e&text_color=c9d1d9" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=Suchakra8555&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00e6e6&icon_color=ff3e3e&text_color=c9d1d9" />
   <img height="160" src="https://streak-stats.demolab.com?user=Suchakra8555&theme=tokyonight&background=000000&ring=00e6e6&fire=ff3e3e&currStreakNum=c9d1d9" />
 </div>
 
 <div align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchakra8555&layout=compact&theme=tokyonight&bg_color=000000&title_color=00e6e6&text_color=c9d1d9" />
+  <img height="140" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Suchakra8555&layout=compact&theme=tokyonight&bg_color=000000&title_color=00e6e6&text_color=c9d1d9" />
 </div>
 
 <a id="achievements"></a>
@@ -263,7 +263,7 @@ Software Engineer specializing in **Speech AI**, **telephony-grade audio pipelin
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suchakra8555&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-trophies.devomb.com/?username=Suchakra8555&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" />
 </div>
 
 - 🏅 **Gold Medal** — State Level Science Talent Search Examination (SLSTE), for excellence in science and analytical problem solving.

@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="#about">About</a> •
+  <a href="#legendaries">Legendaries</a> •
   <a href="#skills">Skills</a> •
   <a href="#pokedex">Pokédex</a> •
   <a href="#experience">Experience</a> •
@@ -37,20 +38,53 @@
 
   <br/>
 
-  <img src="assets/go/meowth.png" alt="Meowth" width="72" style="margin: 0 12px;">
-  <img src="assets/go/ho-oh.png" alt="Ho-Oh" width="72" style="margin: 0 12px;">
-  <img src="assets/go/rayquaza.png" alt="Rayquaza" width="72" style="margin: 0 12px;">
-  <img src="assets/go/squirtle.png" alt="Squirtle" width="72" style="margin: 0 12px;">
-  <img src="assets/go/charizard.png" alt="Charizard" width="72" style="margin: 0 12px;">
+  <img src="assets/go/ho-oh.png" alt="Ho-Oh" width="76" style="margin: 0 12px;">
+  <img src="assets/go/rayquaza.png" alt="Rayquaza" width="76" style="margin: 0 12px;">
+  <img src="assets/go/charizard.png" alt="Charizard" width="76" style="margin: 0 12px;">
 
   <br/>
   <sub>✨ shiny collection</sub>
   <br/>
-  <img src="assets/go/shiny-meowth.png" alt="Shiny Meowth" width="40" style="margin: 0 8px;">
   <img src="assets/go/shiny-ho-oh.png" alt="Shiny Ho-Oh" width="40" style="margin: 0 8px;">
   <img src="assets/go/shiny-rayquaza.png" alt="Shiny Rayquaza" width="40" style="margin: 0 8px;">
-  <img src="assets/go/shiny-squirtle.png" alt="Shiny Squirtle" width="40" style="margin: 0 8px;">
   <img src="assets/go/shiny-charizard.png" alt="Shiny Charizard" width="40" style="margin: 0 8px;">
+</div>
+
+<a id="legendaries"></a>
+
+### 🐉 Legendary Collection
+
+<div align="center">
+  <img src="assets/divider.svg" alt="Pokéball Divider" width="380">
+</div>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="assets/go/articuno.png" width="64"><br/><sub><b>Articuno</b></sub></td>
+    <td align="center"><img src="assets/go/zapdos.png" width="64"><br/><sub><b>Zapdos</b></sub></td>
+    <td align="center"><img src="assets/go/moltres.png" width="64"><br/><sub><b>Moltres</b></sub></td>
+    <td align="center"><img src="assets/go/mewtwo.png" width="64"><br/><sub><b>Mewtwo</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/go/lugia.png" width="64"><br/><sub><b>Lugia</b></sub></td>
+    <td align="center"><img src="assets/go/ho-oh.png" width="64"><br/><sub><b>Ho-Oh</b></sub></td>
+    <td align="center"><img src="assets/go/entei.png" width="64"><br/><sub><b>Entei</b></sub></td>
+    <td align="center"><img src="assets/go/raikou.png" width="64"><br/><sub><b>Raikou</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/go/suicune.png" width="64"><br/><sub><b>Suicune</b></sub></td>
+    <td align="center"><img src="assets/go/groudon.png" width="64"><br/><sub><b>Groudon</b></sub></td>
+    <td align="center"><img src="assets/go/kyogre.png" width="64"><br/><sub><b>Kyogre</b></sub></td>
+    <td align="center"><img src="assets/go/rayquaza.png" width="64"><br/><sub><b>Rayquaza</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/go/dialga.png" width="64"><br/><sub><b>Dialga</b></sub></td>
+    <td align="center"><img src="assets/go/palkia.png" width="64"><br/><sub><b>Palkia</b></sub></td>
+    <td align="center"><img src="assets/go/giratina.png" width="64"><br/><sub><b>Giratina</b></sub></td>
+    <td align="center"><img src="assets/go/arceus.png" width="64"><br/><sub><b>Arceus</b></sub></td>
+  </tr>
+</table>
 </div>
 
 <a id="about"></a>
@@ -155,10 +189,10 @@ Software Engineer specializing in **Speech AI**, **telephony-grade audio pipelin
 #### 🏅 Poké-Badges — Skill Categories
 
 <div align="center">
-  <img src="assets/go/badge-normal.png" alt="Voice AI Badge" width="76" title="Normal type · Voice / Speech AI">
-  <img src="assets/go/badge-water.png" alt="Backend Badge" width="76" title="Water type · Backend / APIs">
-  <img src="assets/go/badge-fire.png" alt="AI Badge" width="76" title="Fire type · AI / ML & LLM">
-  <img src="assets/go/badge-dragon.png" alt="MLOps Badge" width="76" title="Dragon type · MLOps / Infra">
+  <img src="assets/go/badge-normal.png" alt="Voice AI Badge" width="76" title="Arceus · Voice / Speech AI">
+  <img src="assets/go/badge-water.png" alt="Backend Badge" width="76" title="Kyogre · Backend / APIs">
+  <img src="assets/go/badge-fire.png" alt="AI Badge" width="76" title="Moltres · AI / ML & LLM">
+  <img src="assets/go/badge-dragon.png" alt="MLOps Badge" width="76" title="Rayquaza · MLOps / Infra">
   <br/>
   <sub><b>Voice AI</b> &nbsp;•&nbsp; <b>Backend</b> &nbsp;•&nbsp; <b>AI / LLM</b> &nbsp;•&nbsp; <b>MLOps</b></sub>
 </div>
@@ -171,7 +205,7 @@ Software Engineer specializing in **Speech AI**, **telephony-grade audio pipelin
   <img src="assets/divider.svg" alt="Pokéball Divider" width="380">
 </div>
 
-- **#052** <img src="assets/go/meowth.png" width="26"> · [`Employee Attrition Predictor`](https://github.com/Suchakra8555/Employee_attrition_predictor) — ML web app that predicts employee attrition with feature engineering and selection, delivering actionable retention insights to HR teams (Flask).
+- **#150** <img src="assets/go/mewtwo.png" width="26"> · [`Employee Attrition Predictor`](https://github.com/Suchakra8555/Employee_attrition_predictor) — ML web app that predicts employee attrition with feature engineering and selection, delivering actionable retention insights to HR teams (Flask).
 - **#250** <img src="assets/go/ho-oh.png" width="26"> · **In-House LLM Summarization App** — enterprise document summarization using fine-tuned DistilBART, with an automated end-to-end workflow for knowledge management.
 - **#384** <img src="assets/go/rayquaza.png" width="26"> · [`DeepFakeDetection`](https://github.com/Suchakra8555/DeepFakeDetection) — college major project detecting deepfakes with the CoDE model.
 
